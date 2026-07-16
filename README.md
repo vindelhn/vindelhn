@@ -1,7 +1,13 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vindelhn&theme=holi)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vindelhn&theme=holi)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vindelhn&theme=holi)
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vindelhn&theme=tokyonight"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vindelhn&bg_color=121027&color=79c525&line=75ea00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vindelhn&theme=tokyonight"/>
 
 <div align="center">
   <a href="https://github.com/vindelhn">
